@@ -1,4 +1,9 @@
+# 💫 Hi 👋, I'm Aditya Jyoti
+**A passionate Game dev || software Eng **
 
+Email Me 👉 ✉️ **aditya2002a@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+## 🔗 I am a Content Creator. 😊😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aditya2002a/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-jyoti-185112259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya2002a@gmail.com) 
 
