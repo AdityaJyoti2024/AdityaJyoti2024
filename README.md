@@ -24,3 +24,7 @@ Email Me 👉 ✉️ **aditya2002a@gmail.com** For Collaboration/Project or Anyt
 [![](https://visitcount.itsvg.in/api?id=AdityaJyoti2024&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
